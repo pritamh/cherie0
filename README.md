@@ -4,5 +4,5 @@
 - > I’m looking to collaborate on Java or JS projects to expand my knowledge and skills in the languages
 - > How to reach me 
 - > > email me: pritamahazra101@outlook.com (personal)
-- > > >       : pritamahazra@gmail.com (professional)
+- > >         : pritamahazra@gmail.com (professional)
 
